@@ -1,4 +1,4 @@
-# Calculator
+# Calculator :heavy_multiplication_x: :heavy_division_sign: :heavy_plus_sign: :heavy_minus_sign:
 
 ## Screenshots
 
