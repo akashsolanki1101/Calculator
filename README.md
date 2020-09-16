@@ -1,6 +1,7 @@
 # Calculator
 React Native App
-##Screenshot
+
+##Screenshot##
 
 <img src="https://ibb.co/DgkSWpq"
    style="float: left, 
