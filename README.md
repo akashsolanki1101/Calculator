@@ -1,7 +1,6 @@
 # Calculator
-# React Native App
 
-## Screenshot
+## Screenshots
 
 <img src="https://i.ibb.co/sJQMRHB/Whats-App-Image-2020-09-16-at-8-14-00-PM-1.jpg"
    style="float: left" 
